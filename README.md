@@ -1,4 +1,4 @@
-# 23BCS13058_Harsh-Bhardwaj_Exp.7.3
+# 23BCS111110_shashwat_Exp.7.3
 
 ## 💬 Real-Time Chat Application Using Socket.io
 
@@ -11,4 +11,4 @@ To implement a **real-time chat** system using **Socket.io** with React frontend
 ---
 
 ### 👨‍💻 Made By:
-**Harsh Bhardwaj**
+**Shashwat**
